@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Featured Image
-Plugin URI: http://hyperspatial.com
+Plugin URI: https://github.com/hyptx/hyp-featured-image
 Description: Add a default featured image or grab first attachment
 Version: 1.0
 Author: Adam J Nowak
